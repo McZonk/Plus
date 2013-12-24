@@ -1,3 +1,6 @@
+[submodule "AVFoundationPlus"]
+	path = AVFoundationPlus
+	url = https://github.com/McZonk/AVFoundationPlus.git
 [submodule "OpenGLPlus"]
 	path = OpenGLPlus
 	url = https://github.com/McZonk/OpenGLPlus.git
