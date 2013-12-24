@@ -1,0 +1,276 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		50C5F4221869A0B50057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F41E1869A0B50057564D /* AVFoundationPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50B2DEB118698C8D009BA2E9;
+			remoteInfo = AVFoundationPlus;
+		};
+		50C5F4281869A0BA0057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F4241869A0BA0057564D /* CoreGraphicsPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F25C18698EE30057564D;
+			remoteInfo = CoreGraphicsPlus;
+		};
+		50C5F42E1869A0C00057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F42A1869A0C00057564D /* NSFoundationPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F293186991B80057564D;
+			remoteInfo = NSFoundationPlus;
+		};
+		50C5F4351869A0C60057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F4301869A0C60057564D /* ObjectiveCPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F2EB186997310057564D;
+			remoteInfo = ObjectiveCPlus;
+		};
+		50C5F4371869A0C60057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F4301869A0C60057564D /* ObjectiveCPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F2FB186997310057564D;
+			remoteInfo = ObjectiveCPlusTests;
+		};
+		50C5F43D1869A0CB0057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F4391869A0CB0057564D /* OpenGLPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50591E99185C913E007F6117;
+			remoteInfo = OpenGLPlus;
+		};
+		50C5F4441869A0D20057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F43F1869A0D20057564D /* UIKitPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F32218699A860057564D;
+			remoteInfo = UIKitPlus;
+		};
+		50C5F4461869A0D20057564D /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50C5F43F1869A0D20057564D /* UIKitPlus.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 50C5F3A518699D0A0057564D;
+			remoteInfo = UIKitPlusLocalization;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		50C5F41E1869A0B50057564D /* AVFoundationPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = AVFoundationPlus.xcodeproj; path = AVFoundationPlus/AVFoundationPlus.xcodeproj; sourceTree = "<group>"; };
+		50C5F4241869A0BA0057564D /* CoreGraphicsPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CoreGraphicsPlus.xcodeproj; path = CoreGraphicsPlus/CoreGraphicsPlus.xcodeproj; sourceTree = "<group>"; };
+		50C5F42A1869A0C00057564D /* NSFoundationPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = NSFoundationPlus.xcodeproj; path = NSFoundationPlus/NSFoundationPlus.xcodeproj; sourceTree = "<group>"; };
+		50C5F4301869A0C60057564D /* ObjectiveCPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ObjectiveCPlus.xcodeproj; path = ObjectiveCPlus/ObjectiveCPlus.xcodeproj; sourceTree = "<group>"; };
+		50C5F4391869A0CB0057564D /* OpenGLPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = OpenGLPlus.xcodeproj; path = OpenGLPlus/OpenGLPlus.xcodeproj; sourceTree = "<group>"; };
+		50C5F43F1869A0D20057564D /* UIKitPlus.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = UIKitPlus.xcodeproj; path = UIKitPlus/UIKitPlus.xcodeproj; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		50C5F3DE1869A0380057564D = {
+			isa = PBXGroup;
+			children = (
+				50C5F41E1869A0B50057564D /* AVFoundationPlus.xcodeproj */,
+				50C5F4241869A0BA0057564D /* CoreGraphicsPlus.xcodeproj */,
+				50C5F42A1869A0C00057564D /* NSFoundationPlus.xcodeproj */,
+				50C5F4301869A0C60057564D /* ObjectiveCPlus.xcodeproj */,
+				50C5F4391869A0CB0057564D /* OpenGLPlus.xcodeproj */,
+				50C5F43F1869A0D20057564D /* UIKitPlus.xcodeproj */,
+			);
+			sourceTree = "<group>";
+		};
+		50C5F41F1869A0B50057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F4231869A0B50057564D /* libAVFoundationPlus.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50C5F4251869A0BA0057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F4291869A0BA0057564D /* libCoreGraphicsPlus.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50C5F42B1869A0C00057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F42F1869A0C00057564D /* libNSFoundationPlus.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50C5F4311869A0C60057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F4361869A0C60057564D /* libObjectiveCPlus.a */,
+				50C5F4381869A0C60057564D /* ObjectiveCPlusTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50C5F43A1869A0CB0057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F43E1869A0CB0057564D /* libOpenGLPlus.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50C5F4401869A0D20057564D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50C5F4451869A0D20057564D /* libUIKitPlus.a */,
+				50C5F4471869A0D20057564D /* libUIKitPlusLocalization.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		50C5F3DF1869A0380057564D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+			};
+			buildConfigurationList = 50C5F3E21869A0380057564D /* Build configuration list for PBXProject "Plus" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 50C5F3DE1869A0380057564D;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 50C5F41F1869A0B50057564D /* Products */;
+					ProjectRef = 50C5F41E1869A0B50057564D /* AVFoundationPlus.xcodeproj */;
+				},
+				{
+					ProductGroup = 50C5F4251869A0BA0057564D /* Products */;
+					ProjectRef = 50C5F4241869A0BA0057564D /* CoreGraphicsPlus.xcodeproj */;
+				},
+				{
+					ProductGroup = 50C5F42B1869A0C00057564D /* Products */;
+					ProjectRef = 50C5F42A1869A0C00057564D /* NSFoundationPlus.xcodeproj */;
+				},
+				{
+					ProductGroup = 50C5F4311869A0C60057564D /* Products */;
+					ProjectRef = 50C5F4301869A0C60057564D /* ObjectiveCPlus.xcodeproj */;
+				},
+				{
+					ProductGroup = 50C5F43A1869A0CB0057564D /* Products */;
+					ProjectRef = 50C5F4391869A0CB0057564D /* OpenGLPlus.xcodeproj */;
+				},
+				{
+					ProductGroup = 50C5F4401869A0D20057564D /* Products */;
+					ProjectRef = 50C5F43F1869A0D20057564D /* UIKitPlus.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		50C5F4231869A0B50057564D /* libAVFoundationPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libAVFoundationPlus.a;
+			remoteRef = 50C5F4221869A0B50057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F4291869A0BA0057564D /* libCoreGraphicsPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libCoreGraphicsPlus.a;
+			remoteRef = 50C5F4281869A0BA0057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F42F1869A0C00057564D /* libNSFoundationPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libNSFoundationPlus.a;
+			remoteRef = 50C5F42E1869A0C00057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F4361869A0C60057564D /* libObjectiveCPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libObjectiveCPlus.a;
+			remoteRef = 50C5F4351869A0C60057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F4381869A0C60057564D /* ObjectiveCPlusTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ObjectiveCPlusTests.xctest;
+			remoteRef = 50C5F4371869A0C60057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F43E1869A0CB0057564D /* libOpenGLPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libOpenGLPlus.a;
+			remoteRef = 50C5F43D1869A0CB0057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F4451869A0D20057564D /* libUIKitPlus.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libUIKitPlus.a;
+			remoteRef = 50C5F4441869A0D20057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		50C5F4471869A0D20057564D /* libUIKitPlusLocalization.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libUIKitPlusLocalization.a;
+			remoteRef = 50C5F4461869A0D20057564D /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
+/* Begin XCBuildConfiguration section */
+		50C5F3E31869A0380057564D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		50C5F3E41869A0380057564D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		50C5F3E21869A0380057564D /* Build configuration list for PBXProject "Plus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50C5F3E31869A0380057564D /* Debug */,
+				50C5F3E41869A0380057564D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 50C5F3DF1869A0380057564D /* Project object */;
+}
