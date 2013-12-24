@@ -7,6 +7,9 @@
 [submodule "NSFoundationPlus"]
 	path = NSFoundationPlus
 	url = https://github.com/McZonk/NSFoundationPlus.git
+[submodule "ObjectiveCPlus"]
+	path = ObjectiveCPlus
+	url = https://github.com/McZonk/ObjectiveCPlus.git
 [submodule "OpenGLPlus"]
 	path = OpenGLPlus
 	url = https://github.com/McZonk/OpenGLPlus.git
