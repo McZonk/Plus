@@ -16,3 +16,6 @@
 [submodule "UIKitPlus"]
 	path = UIKitPlus
 	url = https://github.com/McZonk/UIKitPlus.git
+[submodule "UIKitPlusLocalization"]
+	path = UIKitPlusLocalization
+	url = https://github.com/McZonk/UIKitPlusLocalization.git
