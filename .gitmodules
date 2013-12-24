@@ -1,0 +1,3 @@
+[submodule "OpenGLPlus"]
+	path = OpenGLPlus
+	url = https://github.com/McZonk/OpenGLPlus.git
