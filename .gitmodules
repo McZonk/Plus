@@ -4,6 +4,9 @@
 [submodule "CoreGraphicsPlus"]
 	path = CoreGraphicsPlus
 	url = https://github.com/McZonk/CoreGraphicsPlus.git
+[submodule "NSFoundationPlus"]
+	path = NSFoundationPlus
+	url = https://github.com/McZonk/NSFoundationPlus.git
 [submodule "OpenGLPlus"]
 	path = OpenGLPlus
 	url = https://github.com/McZonk/OpenGLPlus.git
