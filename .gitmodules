@@ -1,9 +1,15 @@
 [submodule "AVFoundationPlus"]
 	path = AVFoundationPlus
 	url = https://github.com/McZonk/AVFoundationPlus.git
+[submodule "AssetsLibraryPlus"]
+	path = AssetsLibraryPlus
+	url = https://github.com/McZonk/AssetsLibraryPlus.git
 [submodule "CoreGraphicsPlus"]
 	path = CoreGraphicsPlus
 	url = https://github.com/McZonk/CoreGraphicsPlus.git
+[submodule "CoreVideoPlus"]
+	path = CoreVideoPlus
+	url = https://github.com/McZonk/CoreVideoPlus.git
 [submodule "NSFoundationPlus"]
 	path = NSFoundationPlus
 	url = https://github.com/McZonk/NSFoundationPlus.git
@@ -19,6 +25,3 @@
 [submodule "UIKitPlusLocalization"]
 	path = UIKitPlusLocalization
 	url = https://github.com/McZonk/UIKitPlusLocalization.git
-[submodule "CoreVideoPlus"]
-	path = CoreVideoPlus
-	url = https://mczonk@github.com/McZonk/CoreVideoPlus.git
