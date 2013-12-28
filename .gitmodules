@@ -19,6 +19,9 @@
 [submodule "OpenGLPlus"]
 	path = OpenGLPlus
 	url = https://github.com/McZonk/OpenGLPlus.git
+[submodule "SpriteKitPlus"]
+	path = SpriteKitPlus
+	url = https://github.com/McZonk/SpriteKitPlus.git
 [submodule "UIKitPlus"]
 	path = UIKitPlus
 	url = https://github.com/McZonk/UIKitPlus.git
