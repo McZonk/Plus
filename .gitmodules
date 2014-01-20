@@ -28,3 +28,6 @@
 [submodule "UIKitPlusLocalization"]
 	path = UIKitPlusLocalization
 	url = https://github.com/McZonk/UIKitPlusLocalization.git
+[submodule "CoreMediaPlus"]
+	path = CoreMediaPlus
+	url = https://mczonk@github.com/McZonk/CoreMediaPlus.git
